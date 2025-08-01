@@ -6,7 +6,10 @@ A comprehensive AI-powered hospital appointment booking system built with FastAP
 
 Watch the Hospital Appointment Booking System in action:
 
-https://github.com/Soumya44/Multi-Agent-Doctor-Appointment-Booking-App/blob/cc4b6e3bb06098feded4e9c2bf9558e11f488418/demo/multi-agent-appointment-booking-demo.mp4
+
+
+https://github.com/user-attachments/assets/b7afd3eb-1e1e-46b5-bd7f-6d64aee12644
+
 
 *The demo showcases the multi-agent conversation flow, natural language processing capabilities, and seamless appointment booking experience.*
 
