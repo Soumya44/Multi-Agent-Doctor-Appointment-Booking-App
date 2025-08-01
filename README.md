@@ -2,6 +2,16 @@
 
 A comprehensive AI-powered hospital appointment booking system built with FastAPI, LangGraph, and Streamlit. The system uses multiple specialized agents to handle appointment booking, doctor availability checks, and general inquiries with natural language processing.
 
+## 🎬 Demo Video
+
+Watch the Hospital Appointment Booking System in action:
+
+https://github.com/user-attachments/assets/multi-agent-appointment-booking-demo.mp4
+
+*The demo showcases the multi-agent conversation flow, natural language processing capabilities, and seamless appointment booking experience.*
+
+> **Note**: If the video doesn't play directly in GitHub, you can download it from the [`demo/`](demo/) folder in this repository.
+
 ## 🌟 Features
 
 ### 🤖 AI-Powered Agents
