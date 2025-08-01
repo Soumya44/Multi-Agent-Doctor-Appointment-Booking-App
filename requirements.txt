@@ -1,0 +1,14 @@
+fastapi
+pydantic
+langchain-community
+langgraph
+langsmith
+langchain-core
+langchain-openai
+langchain-groq
+langchain-google-genai
+python-dotenv
+pandas
+streamlit
+requests
+uvicorn
